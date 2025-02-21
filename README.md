@@ -1,11 +1,10 @@
-
-![SM-01](https://github.com/user-attachments/assets/67157b1b-bf32-43c4-9b0a-05ba85436f72)
-![SM-02](https://github.com/user-attachments/assets/feaa25f1-e4f9-47e5-b242-985987fe0b6f)
-
-
 # Social App
 
 Welcome to **Social App**, a modern social networking platform built using MongoDB that allows users to sign up, log in and out, follow and unfollow other users, and share posts with images or text.
+
+
+![SM-01](https://github.com/user-attachments/assets/67157b1b-bf32-43c4-9b0a-05ba85436f72)
+![SM-02](https://github.com/user-attachments/assets/feaa25f1-e4f9-47e5-b242-985987fe0b6f)
 
 ## Table of Contents
 
